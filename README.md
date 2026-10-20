@@ -2,6 +2,11 @@
 
 ## English
 
+### Live app
+
+Open [How Much Should I Pay?](https://how-much-should-i-pay.mulixuan0303.workers.dev/)
+in your browser.
+
 ### Purpose
 
 An English-language web app for splitting a group's shared expenses equally.
@@ -230,6 +235,10 @@ This application has an independent TypeScript implementation.
 ---
 
 ## 中文
+
+### 在线使用
+
+在浏览器中打开 [How Much Should I Pay?](https://how-much-should-i-pay.mulixuan0303.workers.dev/)。
 
 ### 项目用途
 
